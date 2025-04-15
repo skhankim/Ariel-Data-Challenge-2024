@@ -43,3 +43,11 @@
 ## 도메인 지식 (Domain knowledge)
 [Transits and Occultations](https://opaque-sword-c15.notion.site/Transit-Occeltation-review-paper-overview-213d57682fa24748a886c6df2d5edc04?pvs=4) 리뷰 논문 정리
 
+## 감사 (Acknowledgements)
+이 프로젝트는 Sergei Fironov의 작업을 부분적으로 기반으로 하고 있음:
+
+[MobileNet Training on Kaggle](https://www.kaggle.com/code/sergeifironov/mobilenet-training)        
+[ariel_only_correlation on Kaggle](https://www.kaggle.com/code/sergeifironov/ariel-only-correlation)        
+[ariel_local_purple_hat_inference on Kaggle](https://www.kaggle.com/code/sergeifironov/ariel-local-purple-hat-inference)     
+
+원본 노트북은 Apache License 2.0 하에 배포되었으며, 우리는 해당 라이선스 조건에 따라 일부 학습 파이프라인 코드를 재사용 및 수정하였음.
