@@ -43,9 +43,9 @@ Overview of review paper about [Transits and Occultations](https://opaque-sword-
 ## Acknowledgements
 
 This project is based in part on the work by Sergei Fironov:  
-[MobileNet Training on Kaggle](https://www.kaggle.com/code/sergeifironov/mobilenet-training)
-[ariel_only_correlation on Kaggle](https://www.kaggle.com/code/sergeifironov/ariel-only-correlation)
-[ariel_local_purple_hat_inference on Kaggle](https://www.kaggle.com/code/sergeifironov/ariel-local-purple-hat-inference)
+[MobileNet Training on Kaggle](https://www.kaggle.com/code/sergeifironov/mobilenet-training)        
+[ariel_only_correlation on Kaggle](https://www.kaggle.com/code/sergeifironov/ariel-only-correlation)        
+[ariel_local_purple_hat_inference on Kaggle](https://www.kaggle.com/code/sergeifironov/ariel-local-purple-hat-inference)          
 
 The original notebook is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).  
 We have reused and adapted parts of the training pipeline in accordance with the license terms.
